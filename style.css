@@ -1,0 +1,11 @@
+#preview {
+    
+    margin-left: 5px;
+    margin-top: -2px;
+    width: 100%;
+  border: 2px solid black;
+    padding: 40px
+  }
+#editor{
+  border:2px solid green
+}
